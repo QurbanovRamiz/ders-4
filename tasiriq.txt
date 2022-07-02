@@ -1,0 +1,8 @@
+1---hər hansısa ədədin tərsinəsi 
+ədədin rəqəm sayı bizə maraqlı deyil 
+
+2---daxil edilən 4 rəqəmli ədədin 
+içində eyni rəqəmin olub  olmadığını gösdərsin
+"var" "yoxdu" deməynən
+məsələn-1201 burda "var" qaytarsın 
+        1234 burda "yoxdu" qaytarsın
