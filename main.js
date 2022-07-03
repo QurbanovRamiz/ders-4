@@ -1,7 +1,7 @@
-// var n = 1233;
+// var n = 7371;
 // var first;
 // var second;
-// var thith;
+// var thirth;
 // var fourth;
 // var vardir = "var";
 // var yoxdur = "yoxdur";
@@ -10,28 +10,39 @@
 //   n = (n - (n % 10)) / 10;
 //   second = n % 10;
 //   n = (n - (n % 10)) / 10;
-//   thith = n % 10;
+//   thirth = n % 10;
 //   n = (n - (n % 10)) / 10;
 //   fourth = n % 10;
 // }
 // if (
 //   first == second ||
-//   first == thith ||
+//   first == thirth ||
 //   first == fourth ||
-//   second == thith ||
+//   second == thirth ||
 //   second == fourth ||
-//   thith == fourth
+//   thirth == fourth
 // ) {
 //   console.log(vardir);
-// } else if (
+// } else console.log(yoxdur);
+
+//  if (
 //   first != second &&
-//   first != thith &&
+//   first != thirth &&
 //   first != fourth &&
-//   second != thith &&
+//   second != thirth &&
 //   second != fourth &&
-//   thith != fourth
+//   thirth != fourth
 // ) {
 //   console.log(yoxdur);
 // }
 
-var n = 12;
+// var n = 948765;
+// var reverseN = 0;
+// if (n > 0) {
+//   for (var num = n; num > 0; num = (num - (num % 10)) / 10) {
+//     reverseN *= 10;
+//     reverseN += num % 10;
+//   }
+
+//   console.log(reverseN);
+// }
